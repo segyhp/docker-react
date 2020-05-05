@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://segyhp.github.io/frontend",
+  "homepage": "https://segyhp.github.io/docker-react",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
