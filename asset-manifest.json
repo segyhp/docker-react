@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/frontend/static/css/main.bc95f3f2.chunk.css",
-    "main.js": "/frontend/static/js/main.31ad2589.chunk.js",
-    "main.js.map": "/frontend/static/js/main.31ad2589.chunk.js.map",
-    "runtime-main.js": "/frontend/static/js/runtime-main.e747aded.js",
-    "runtime-main.js.map": "/frontend/static/js/runtime-main.e747aded.js.map",
-    "static/css/2.66b7f74f.chunk.css": "/frontend/static/css/2.66b7f74f.chunk.css",
-    "static/js/2.f8ddcfd5.chunk.js": "/frontend/static/js/2.f8ddcfd5.chunk.js",
-    "static/js/2.f8ddcfd5.chunk.js.map": "/frontend/static/js/2.f8ddcfd5.chunk.js.map",
-    "index.html": "/frontend/index.html",
-    "precache-manifest.7b9e69496aea91a1ecd25053445ca8bc.js": "/frontend/precache-manifest.7b9e69496aea91a1ecd25053445ca8bc.js",
-    "service-worker.js": "/frontend/service-worker.js",
-    "static/css/2.66b7f74f.chunk.css.map": "/frontend/static/css/2.66b7f74f.chunk.css.map",
-    "static/css/main.bc95f3f2.chunk.css.map": "/frontend/static/css/main.bc95f3f2.chunk.css.map",
-    "static/js/2.f8ddcfd5.chunk.js.LICENSE.txt": "/frontend/static/js/2.f8ddcfd5.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/frontend/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/docker-react/static/css/main.c785f99c.chunk.css",
+    "main.js": "/docker-react/static/js/main.a04b6205.chunk.js",
+    "main.js.map": "/docker-react/static/js/main.a04b6205.chunk.js.map",
+    "runtime-main.js": "/docker-react/static/js/runtime-main.6518e2dd.js",
+    "runtime-main.js.map": "/docker-react/static/js/runtime-main.6518e2dd.js.map",
+    "static/css/2.66b7f74f.chunk.css": "/docker-react/static/css/2.66b7f74f.chunk.css",
+    "static/js/2.f8ddcfd5.chunk.js": "/docker-react/static/js/2.f8ddcfd5.chunk.js",
+    "static/js/2.f8ddcfd5.chunk.js.map": "/docker-react/static/js/2.f8ddcfd5.chunk.js.map",
+    "index.html": "/docker-react/index.html",
+    "precache-manifest.1b23803827a6b6b443b78f1ac970f135.js": "/docker-react/precache-manifest.1b23803827a6b6b443b78f1ac970f135.js",
+    "service-worker.js": "/docker-react/service-worker.js",
+    "static/css/2.66b7f74f.chunk.css.map": "/docker-react/static/css/2.66b7f74f.chunk.css.map",
+    "static/css/main.c785f99c.chunk.css.map": "/docker-react/static/css/main.c785f99c.chunk.css.map",
+    "static/js/2.f8ddcfd5.chunk.js.LICENSE.txt": "/docker-react/static/js/2.f8ddcfd5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/docker-react/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e747aded.js",
+    "static/js/runtime-main.6518e2dd.js",
     "static/css/2.66b7f74f.chunk.css",
     "static/js/2.f8ddcfd5.chunk.js",
-    "static/css/main.bc95f3f2.chunk.css",
-    "static/js/main.31ad2589.chunk.js"
+    "static/css/main.c785f99c.chunk.css",
+    "static/js/main.a04b6205.chunk.js"
   ]
 }
