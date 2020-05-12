@@ -1,11 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {Provider} from 'react-redux'
 import './index.css';
 import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 import App from './containers/App';
+import {createStore} from 'redux';
+import {searchRobots }from './reducers';
 
-ReactDOM.render(<App />,
+const store = createStore(searchRobots);
+
+ReactDOM.render(
+        <Provider store={store}>
+        <App />
+        </Provider>
+    ,
     document.getElementById('root'));
 
 // If you want your app to work offline and load faster, you can change
