@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bff0fc8030fa9c91ff3a8872cf74f9b4",
+    "revision": "9a311948cd6d7f0c35f9b55d8a82be99",
     "url": "/docker-react/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/docker-react/static/css/2.66b7f74f.chunk.css"
   },
   {
-    "revision": "732b2773fb24bb390834",
-    "url": "/docker-react/static/css/main.c785f99c.chunk.css"
+    "revision": "b413141bbe54617d58fc",
+    "url": "/docker-react/static/css/main.e3f09d92.chunk.css"
   },
   {
     "revision": "60adead81d065344ef19",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/docker-react/static/js/2.d213d542.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "732b2773fb24bb390834",
-    "url": "/docker-react/static/js/main.ab7b8308.chunk.js"
+    "revision": "b413141bbe54617d58fc",
+    "url": "/docker-react/static/js/main.23123449.chunk.js"
   },
   {
     "revision": "bd2f12dd4d9a90bf69eb",
