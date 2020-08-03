@@ -40,7 +40,9 @@
   },
   "devDependencies": {
     "@welldone-software/why-did-you-render": "^4.2.5",
-    "cz-conventional-changelog": "^3.1.0"
+    "cz-conventional-changelog": "^3.1.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2"
   },
   "config": {
     "commitizen": {
