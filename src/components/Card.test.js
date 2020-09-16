@@ -1,7 +1,7 @@
 import { shallow } from 'enzyme';
 import React from 'react';
 import Card from './Card';
-import toJson, {createSerializer} from 'enzyme-to-json';
+import toJson from 'enzyme-to-json';
 
 
 it('expect to render Card Component', () => {
